@@ -4,4 +4,4 @@ NFT preview card component made by:
 1. HTML
 2. CSS
 
-Solution can be seen here:
+Solution can be seen here: https://andreichyrych.github.io/NFT-preview-card-component/
