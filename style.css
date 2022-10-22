@@ -3,10 +3,6 @@
   color: hsl(215, 51%, 70%);
 }
 
-hr {
-  border-color: hsl(215, 51%, 70%);
-}
-
 body {
   height: 100vh;
   display: flex;
@@ -31,11 +27,19 @@ img {
   border-radius: 12px;
 }
 
+h3 {
+  color: white;
+  }
+
 .credentials {
   text-align: center;
 }
+
 .price {
   display: flex; 
   flex-direction: row; 
   justify-content: space-between; 
 }
+
+hr {
+  border-color: hsl(215, 51%, 70%);
